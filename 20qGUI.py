@@ -1,6 +1,5 @@
 from graphics import *
-from button import Button
-
+from buttonClass import Button
 
 def nextQuestion(win, myO):
 
